@@ -2,6 +2,7 @@
 
 ## What is Error 422?
 Error 422 is a Minecraft Creepy Pasta.
+
 [![Kunai's Video about Error 422](https://img.youtube.com/vi/-AugZ_6G-x4/hqdefault.jpg)](https://youtu.be/-AugZ_6G-x4)
 
 Requirements:
