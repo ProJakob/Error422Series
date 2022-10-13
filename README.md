@@ -19,8 +19,8 @@ Recommendations:
 [Adoptium **JDK 8**](https://adoptium.net/de/temurin/releases?version=8) *Select the one Matching your System.*
 
 # Episodes
-[Playlist]()
+[Playlist](https://www.youtube.com/playlist?list=PLLCUEZTF3sEeAmjGlI6-eoLWoxZbi727C)
 ## Episode 1
-[Link]()
+[Link](https://youtu.be/6UjgMIwsNJk?list=PLLCUEZTF3sEeAmjGlI6-eoLWoxZbi727C)
 * Setting up the Workspace
 * Starting with the Base
